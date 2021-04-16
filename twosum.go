@@ -1,6 +1,6 @@
 package main
 
-func twosum(nums []int, target int) []int {
+func twosum_map(nums []int, target int) []int {
 
 	tot := 0
 	var resarr = []int{0, 0}
